@@ -1,13 +1,17 @@
 <!-- ████████████████████████  HEADER  ████████████████████████ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:1a0533,70:4a0e8f,100:00d4ff&height=210&section=header&text=Hey%20there!%20%F0%9F%91%8B&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Welcome%20to%20my%20GitHub%20%E2%80%94%20where%20data%20meets%20determination&descSize=18&descAlignY=58&descColor=c8b8ff"/>
-
+<!-- ████████████████████████  PORTFOLIO LINK  ████████████████████████ -->
+<div align="center">
+  <a href="https://saisreepothu.github.io/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-saisreepothu.github.io-00d4ff?style=for-the-badge&labelColor=0d1117"/>
+  </a>
+</div>
+<br/>
 <!-- ████████████████████████  TYPING  ████████████████████████ -->
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2200&pause=600&color=00D4FF&center=true&vCenter=true&width=820&lines=Building+NLP+%26+LLM+pipelines+that+actually+ship+%F0%9F%A4%96;Training+ML+weights+%26+gym+weights+daily+%F0%9F%A5%8B;Data+Scientist+%7C+NLP+%7C+ML+Engineer" alt="typing svg" />
 </div>
-
 <br/>
-
 ---
 
 <!-- ████████████████████████  GIF  +  ABOUT ME  ████████████████████████ -->
