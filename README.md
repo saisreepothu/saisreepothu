@@ -17,7 +17,6 @@
 <!-- ████████████████████████  GIF  +  ABOUT ME  ████████████████████████ -->
 
 <!-- Rock Lee full training scene — sit-ups · punches · kicks · never stops -->
-<img align="right" width="420" src="https://media.tenor.com/iN395jeb1dEAAAAM/rock-lee-training.gif" alt="Rock Lee training — no shortcuts, only hard work 🥋"/>
 
 ### &nbsp;`> ./boot_saisree.sh`
 
